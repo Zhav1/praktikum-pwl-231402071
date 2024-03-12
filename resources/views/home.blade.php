@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite ('resources/css/app.css')
+    <link rel="stylesheet" href="css/blog.css">
 </head>
+
 <body class="bg-neutral-100 h-screen flex font-sans">
     <nav class="w-[20%] fixed right-0 top-o h-screen p-4 gap-8 flex flex-col">
         <div class="gap-4 flex flex-col text-lg font bold items-center">
