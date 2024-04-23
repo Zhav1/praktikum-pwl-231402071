@@ -9,7 +9,7 @@
   @vite('resources/css/app.css')
 </head>
 
-<body class="h-screen">
+<body class="h-screen flex flex-col">
   {{-- navbar --}}
   @include('layouts.navbar')
   {{-- akhir navbar --}}
